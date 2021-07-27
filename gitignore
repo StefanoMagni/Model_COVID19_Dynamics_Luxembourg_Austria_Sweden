@@ -1,0 +1,7 @@
+.DS_Store
+Saved_MCMC_Chains/
+Results/
+Results_Austria/
+*.png
+*.csv
+*.pdf
