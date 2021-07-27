@@ -1,4 +1,4 @@
-# Modelling country specific COVID-19 dynamics and paths to herd immunity by vaccination: Austria, Luxembourg and Sweden
+# Modelling COVID-19 dynamics and potential for herd immunity by vaccination in Austria, Luxembourg and Sweden
 
 ## Description: 
 This code represents the implementation of our extended SEIR model with ICU, hospital, recovering, death and vaccination. With this code, we generated the results and simulations of the manuscript [1]. 
