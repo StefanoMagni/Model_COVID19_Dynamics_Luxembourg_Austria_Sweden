@@ -1,7 +1,7 @@
 # Modelling COVID-19 dynamics and potential for herd immunity by vaccination in Austria, Luxembourg and Sweden
 
 ## Description: 
-This code represents the implementation of our extended SEIR model with ICU, hospital, recovering, death and vaccination. With this code, we generated the results and simulations of the manuscript [1]. 
+This code represents the implementation of our extended SEIR model with ICU, hospital, recovering, death and vaccination. With this code, we generated the results and simulations of the manuscript [1] published on Journal of Theoretical Biology and available at https://doi.org/10.1016/j.jtbi.2021.110874. 
 
 ## Structure of the code (Pseudocode): 
 1) Importing dataset
@@ -69,6 +69,8 @@ More information of what concretly is used in relation to Jupyter:
 
 
 ## Credits
-To use our original or adapted codes, please cite our work https://doi.org/10.1101/2020.12.31.20249088 as [1], see reference at the end of this document.
+To use our original or adapted codes, please cite our work https://doi.org/10.1016/j.jtbi.2021.110874 as [1], see reference at the end of this document.
 
-The Jupyter notebook code present in this directory has been written by Françoise Kemp and Stefano Magni, with contributions from Daniele Proverbio, Laurent Mombaerts, Atte Aalto,  Aymeric Fouquier d'Hérouël, Andreas Husch, Christophe Ley, Jorge Gonçalves and Alexander Skupin. This work can be found as a preprint in the manuscript **[1]** which can be downloaded from MedrXiv https://doi.org/10.1101/2020.12.31.20249088 (currently submitted for journal publication) and titled "Stages of COVID-19 pandemic and paths to herd immunity by vaccination: dynamical model comparing Austria, Luxembourg and Sweden". 
+The Jupyter notebook code present in this directory has been written by Françoise Kemp and Stefano Magni, the overall project received contributions from Daniele Proverbio, Laurent Mombaerts, Atte Aalto, Aymeric Fouquier d'Hérouël, Andreas Husch, Christophe Ley, Jorge Gonçalves and Alexander Skupin. This work can be found as a paper in the manuscript published in 2021 on Journal of Theoretical Biology https://doi.org/10.1016/j.jtbi.2021.110874 and titled "Modelling COVID-19 dynamics and potential for herd immunity by vaccination in Austria, Luxembourg and Sweden". The first version of this work appeared on MedrXiv in January 2021 as preprint: https://doi.org/10.1101/2020.12.31.20249088. 
+
+[1] Françoise Kemp, Daniele Proverbio, Atte Aalto, Laurent Mombaerts, Aymeric Fouquier d’Hérouël, Andreas Husch, Christophe Ley, Jorge Gonçalves, Alexander Skupin, Stefano Magni, "Modelling COVID-19 dynamics and potential for herd immunity by vaccination in Austria, Luxembourg and Sweden", Journal of Theoretical Biology, Volume 530, 2021, 110874, ISSN 0022-5193, https://doi.org/10.1016/j.jtbi.2021.110874
